@@ -6,5 +6,8 @@ build/
 env-tox/
 .venv/
 venv/
+.tox/
+*.whl
+model/trained/*.pkl
 *.pem
 .env
