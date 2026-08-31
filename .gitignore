@@ -8,6 +8,6 @@ env-tox/
 venv/
 .tox/
 *.whl
-model/trained/*.pkl
+**/model/trained/*.pkl
 *.pem
 .env
